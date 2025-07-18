@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💼 Work Experience
+## 💼 Work Experience
 
 - **Graduate Research Assistant** @ George Mason University _(Aug 2024 – May 2025)_
   - Developed GPT-integrated survey platform used in 500+ experiments
@@ -101,4 +101,6 @@ Here are some ideas to get you started:
 - **Software Engineer Intern** @ VSoft Technologies _(Jun 2020 – Jul 2020)_
   - Built OpenCV-Python pipeline to extract and validate ID card data
   - Achieved 95%+ accuracy and reduced manual data entry time by 73%
+
+---
 
