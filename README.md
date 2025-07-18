@@ -82,6 +82,8 @@ Here are some ideas to get you started:
   <img src="images/git-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+---
+
 ### 💼 Work Experience
 
 - **Graduate Research Assistant** @ George Mason University _(Aug 2024 – May 2025)_
