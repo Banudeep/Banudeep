@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Banudeep Reddy Gade</h1>
-<h3 align="center">Software Engineer | Cloud & Backend Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
   Passionate about building scalable, secure applications using cloud-native tools.
@@ -83,3 +83,22 @@ Here are some ideas to get you started:
   <img src="images/kubernets.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="images/git-icon.svg" alt="Git" width="40" height="40"/>
 </p>
+
+### 💼 Work Experience
+
+- **Graduate Research Assistant** @ George Mason University _(Aug 2024 – May 2025)_
+  - Developed GPT-integrated survey platform used in 500+ experiments
+  - Built multithreaded Python scrapers collecting 1M+ data points
+  - Integrated LLMs into 5+ academic projects for AI-driven analysis
+
+- **Software Engineer** @ Persistent Systems _(Jun 2022 – Jul 2023)_
+  - Built secure dashboards using React, Spring Boot, OAuth2, and JWT
+  - Automated task workflows with AWS Lambda and SQS
+  - Migrated 50+ client databases to BigQuery using SQL and DBT Cloud
+  - Deployed containerized microservices with Docker, Kubernetes, and Terraform
+  - Implemented CI/CD with Jenkins and GitHub Actions
+
+- **Software Engineer Intern** @ VSoft Technologies _(Jun 2020 – Jul 2020)_
+  - Built OpenCV-Python pipeline to extract and validate ID card data
+  - Achieved 95%+ accuracy and reduced manual data entry time by 73%
+
