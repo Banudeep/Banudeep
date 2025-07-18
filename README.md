@@ -29,14 +29,16 @@ Here are some ideas to get you started:
 
 ## 🏆 Certifications
 
-<div align="center">
-  <img src="https://images.credly.com/size/220x220/images/2e887ebf-cb88-45f3-8d54-53d4e7e5c22e/image.png" width="100px" alt="AWS CCP"/>
-  <img src="https://images.credly.com/size/220x220/images/0a97559f-bb80-4e93-8b76-214b2d34427e/image.png" width="100px" alt="GCP ACE"/>
-</div>
+## 🎓 Certifications
 
-- **AWS Certified Cloud Practitioner**  
-- **Google Cloud Associate Cloud Engineer**  
-- *Studying for: AWS Developer Associate*
+<p align="center">
+  <a href="[https://www.credly.com/badges/cffbe700-be16-43d2-8064-feaeafb229a0/public_url](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/2e887ebf-cb88-45f3-8d54-53d4e7e5c22e/image.png" width="120" alt="AWS CCP Badge"/>
+  </a>
+  <a href="https://www.credly.com/badges/55cb038c-32db-43f5-a672-440b0b4da63b/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/0a97559f-bb80-4e93-8b76-214b2d34427e/image.png" width="120" alt="GCP ACE Badge"/>
+  </a>
+</p>
 
 ---
 
