@@ -41,8 +41,45 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-```bash
-Languages: Python, Java, JavaScript, SQL  
-Cloud: AWS, GCP, Terraform  
-Frameworks: Spring Boot, Flask, FastAPI, React  
-Tools: Docker, Kubernetes, GitHub Actions, Jenkins  
+#### 🖥️ Programming Languages
+<p align="left">
+  <img src="images/python-logo-only.svg" alt="Python" width="40" height="40"/>
+  <img src="images/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="images/ts-logo-256.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="images/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="images/Official_CSS_Logo.svg.png" alt="CSS" width="40" height="40"/>
+  <img src="images/C_Programming_Language.svg.png" alt="C" width="40" height="40"/>
+  <img src="images/ISO_C++_Logo.svg.png" alt="C++" width="40" height="40"/>
+  <img src="images/java.svg" alt="Java" width="40" height="40"/>
+  <img src="images/sql-database-generic-svgrepo-com.svg" alt="SQL" width="40" height="40"/>
+</p>
+
+#### 🧩 Frontend Frameworks
+<p align="left">
+  <img src="images/react.svg" alt="React" width="40" height="40"/>
+  <img src="images/icons8-angular-96.png" alt="Angular" width="40" height="40"/>
+  <img src="images/Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="40"/>
+  <img src="images/redux.svg" alt="Redux" width="40" height="40"/>
+</p>
+
+#### ⚙️ Backend & APIs
+<p align="left">
+  <img src="images/node-js.svg" alt="Node.js" width="40" height="40"/>
+  <img src="images/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="images/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="images/postman.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+#### 🛢️ Databases
+<p align="left">
+  <img src="images/mysql-logo-pure.svg" alt="MySQL" width="40" height="40"/>
+  <img src="images/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="images/aws-2.svg" alt="AWS" width="40" height="40"/>
+  <img src="images/docker-4.svg" alt="Docker" width="40" height="40"/>
+  <img src="images/kubernets.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="images/git-icon.svg" alt="Git" width="40" height="40"/>
+</p>
